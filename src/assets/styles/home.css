@@ -1,0 +1,39 @@
+.section-home {
+    min-height: 80vh;
+    background: #EDEEEF;
+    padding: 2rem;
+}
+.interesting-activities {
+    font-size: medium;
+}
+.news-homepage {
+    font-size: medium;
+    text-align: right;
+}
+.news-home {
+    display: flex;
+    font-weight: 500;
+    font-size: 30px;
+    margin-top: 25px;
+    justify-content: end;
+    column-span: 3;
+}
+.view-all-activity {
+    font-size: 15px;
+    display: flex;
+    justify-content: end;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.view-all-new {
+    font-size: 15px;
+    display: flex;
+    justify-content: end;
+    margin-top: 45px;
+    margin-bottom: 5px;
+}
+.activities-calendar {
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 20px;
+}

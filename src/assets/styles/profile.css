@@ -1,0 +1,56 @@
+.form-profile-first {
+    padding: 20px;
+    margin-inline: 200px;
+    border: 5px solid rgb(255 255 255 / 5%) !important;
+    box-shadow: rgba(71, 71, 71, 0.4) 0px 2px 3px 0px, rgba(206, 206, 206, 0.5) 0px 2px 5px 0px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+.form-profile-second {
+    padding: 20px;
+    margin-inline: 200px;
+    border: 5px solid rgb(255 255 255 / 5%) !important;
+    box-shadow: rgba(71, 71, 71, 0.4) 0px 2px 3px 0px, rgba(206, 206, 206, 0.5) 0px 2px 5px 0px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+.form-profile-thirt {
+    padding: 20px;
+    margin-inline: 200px;
+    border: 5px solid rgb(255 255 255 / 5%) !important;
+    box-shadow: rgba(71, 71, 71, 0.4) 0px 2px 3px 0px, rgba(206, 206, 206, 0.5) 0px 2px 5px 0px;
+    border-radius: 10px;
+    background-color: white;
+}
+.edit-button {
+    width: 80px;
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 15px;
+}
+.clear-button {
+    width: 80px;
+    margin: 20px;
+}
+.confirm-button {
+    justify-content: end !important;
+    width: 80px !important;
+}
+.input-form {
+    margin-bottom: 10px;
+}
+.section-profile {
+    min-height: 80vh;
+    background: #EDEEEF;
+    padding: 2rem;
+}
+.pr-none {
+    background-color: #EDEEEF;
+}
+.profile-con {
+    float: left;
+    margin-left: 20px;
+    margin-top: 34px;
+}

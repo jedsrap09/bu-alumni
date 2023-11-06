@@ -1,0 +1,37 @@
+.activity-header {
+    align-items: center;
+    padding-bottom: 1rem;
+}
+.card {
+    height: 350px !important;
+}
+.pagination-section {
+    padding-top: 2rem;
+    text-align: center;
+}
+.pagination {
+    display: inline-flex !important;
+}
+.page-item {
+    margin: 0 0.125rem;
+    min-width: 40px;
+}
+.page-link {
+    border-radius: 8px !important;
+    color: #000 !important;
+}
+.page-link:hover, .page-link.active {
+    color: #fff !important;
+    background-color: #494F5B !important;
+}
+.page-item.active .page-link {
+    color: #fff !important;
+    background-color: #494F5B !important;
+    border-color: #494F5B !important;
+}
+.search-row {
+    align-items: center;
+}
+.search-row .btn-warning {
+    margin: 0;
+}

@@ -1,0 +1,22 @@
+.activity-detail {
+    align-items: center;
+    padding-bottom: 1rem;
+}
+.join-button {
+    width: 120px !important;
+    color: white !important;
+    background-color: #FAB73B !important;
+    border-color: #FAB73B !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+.section-detail {
+    min-height: 80vh;
+    background: #EDEEEF;
+    padding: 2rem;
+}
+.image {
+    width: 1000px !important;
+    height: 700px !important;
+}
+

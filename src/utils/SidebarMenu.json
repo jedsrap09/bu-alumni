@@ -1,0 +1,41 @@
+{
+  "menu_list": [
+    {
+        "menu_id": 1,
+        "menu_name": "Home",
+        "menu_link": "/",
+        "menu_icon": ""
+    },
+    {
+        "menu_id": 2,
+        "menu_name": "Activities",
+        "menu_link": "/activity",
+        "menu_icon": ""
+    },
+    {
+        "menu_id": 3,
+        "menu_name": "My Activities",
+        "menu_link": "/my-activity",
+        "menu_icon": ""
+    },
+    {
+        "menu_id": 4,
+        "menu_name": "News",
+        "menu_link": "/news",
+        "menu_icon": ""
+    },
+    {
+        "menu_id": 5,
+        "menu_name": "Profile",
+        "menu_link": "/profile"
+    }
+    ,
+    {
+        "menu_id": 6,
+        "menu_name": "Logout",
+        "menu_link": "/login",
+        "menu_icon": ""
+    }
+
+  ]
+}
